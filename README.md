@@ -2,7 +2,7 @@
 
 
 
-## I'm a Student, Developer, Musician and Athleate!!
+## I'm a Student, Developer, Musician and Athlete!!
 -🌱 I’m currently learning everything 🤣
 
 -👯 I’m looking to collaborate with other developers
