@@ -7,7 +7,7 @@
 
 -👯 I’m looking to collaborate with other developers
 
--🥅 2021 Goals: Create more side projects and Enter college🤞
+-🥅 2021 Goals: More incomping side projects and Enter college🤞
 
 -⚡ Fun fact: I love to play guitar / violin
 
@@ -21,7 +21,8 @@
 
 Visual Studio 
 
-C
+C/C#
 
 Python
 
+HTML
