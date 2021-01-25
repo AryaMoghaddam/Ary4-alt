@@ -7,9 +7,9 @@
 
 -👯 I’m looking to collaborate with other developers
 
--🥅 2021 Goals: More incomping side projects and Enter college🤞
+-🥅 2021 Goals: More incomping side projects and Enter University🤞
 
--⚡ Fun fact: I love to play guitar / violin
+-⚡ Fun fact: I love to play guitar & violin
 
 -🎥I'm a movie buff
 
