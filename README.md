@@ -20,8 +20,12 @@
 ### Languages and Tools:
 
 Java Script
+
 CSS
+
 HTML
+
 C/C#
+
 Python
 
