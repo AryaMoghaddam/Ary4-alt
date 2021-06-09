@@ -19,10 +19,9 @@
 
 ### Languages and Tools:
 
-Visual Studio 
-
+Java Script
+CSS
+HTML
 C/C#
-
 Python
 
-HTML
