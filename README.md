@@ -1,4 +1,4 @@
-### Hi there, I'm Arya - aka Captain-Pippin 👋
+### Hi there, I'm Arya 👋
 
 
 
