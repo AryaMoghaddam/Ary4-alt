@@ -28,4 +28,4 @@ HTML
 C/C#
 
 Python
-
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Ary4-alt" frameborder="0"></iframe>
