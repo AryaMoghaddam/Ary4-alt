@@ -29,6 +29,3 @@ C/C#
 
 Python
 
-github-readme-stats-git-master-ary4-alt.vercel.app
-github-readme-stats-tawny-chi-37.vercel.app
-github-readme-stats-ary4-alt.vercel.app
