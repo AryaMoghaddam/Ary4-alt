@@ -30,3 +30,4 @@ C/C#
 Python
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4-alt)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4-alt&show_icons=true)
