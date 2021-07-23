@@ -31,6 +31,7 @@ Python
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4-alt&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ary4-alt)](https://github.com/anuraghazra/github-readme-stats)
 
 
