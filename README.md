@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Web development, Github Project
+- 🔭 I’m currently working on Web development and Github Projects
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering, React.js and Django 
 
