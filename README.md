@@ -42,7 +42,7 @@
 
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4-alt&show_icons=true&theme=cobalt)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4-alt&show_icons=true&theme=merko)
 
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ary4-alt&theme=minimal)]
