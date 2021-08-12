@@ -41,13 +41,7 @@
 <a href = 'https://www.github.com/Ary4-alt'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ary4-alt&count_private=true&show_icons=true&theme=default" />
-</a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary4-alt&theme=default" />
-</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4-alt&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4-alt&show_icons=true&theme=synthwave)
 
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ary4-alt&theme=minimal)]
