@@ -42,11 +42,12 @@
 
 
  
+###
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4-alt&show_icons=true&theme=ayu-mirage)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4-alt&show_icons=true&theme=ayu-mirage)
 
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ary4-alt&theme=minimal)]
+ ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ary4-alt&theme=minimal)
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
